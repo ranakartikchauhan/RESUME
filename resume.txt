@@ -1,0 +1,156 @@
+# Kartik Chauhan
+
+### Full Stack Engineer | AI Engineer | Agentic AI Developer
+
+📍 Bengaluru, India
+📧 [kartikchauhan336@gmail.com](mailto:kartikchauhan336@gmail.com) | 📞 +91 6396934224
+🌐 [https://ranakartikchauhan.in](https://ranakartikchauhan.in)
+💼 [https://linkedin.com/in/ranakartikchauhan](https://linkedin.com/in/ranakartikchauhan)
+💻 [https://github.com/ranakartikchauhan](https://github.com/ranakartikchauhan)
+
+---
+
+## Professional Summary
+
+Full-Stack Software Engineer with 3+ years of experience building scalable web applications and AI-powered systems used by thousands of users. Experienced in developing high-performance MERN stack applications, AI workflows, REST APIs, payment systems, and real-time architectures. Improved application performance by up to 40% through database optimization and scalable frontend engineering. Skilled in LangChain, RAG pipelines, LangGraph, vector databases, and cloud-native development.
+
+---
+## Professional Summary
+
+Full-Stack Software Engineer with 3+ years of experience building scalable web applications and AI-powered systems using the MERN stack and modern AI frameworks. Skilled in developing RESTful APIs, real-time systems, RAG pipelines, LLM integrations, and agentic AI workflows using LangChain and LangGraph. Experienced in scalable backend architecture, cloud deployment, vector databases, and AI automation systems. Strong problem-solving skills with hands-on experience in production-grade applications, performance optimization, and full-stack development.
+
+---
+
+## Experience
+
+### Associate Delivery Level 3 — SmartData Enterprises Inc.
+
+**Dehradun, Uttarakhand, India | Jan 2026 – Present**
+
+* Working on scalable healthcare sector applications with a focus on backend architecture, AI workflows, and enterprise-grade system development.
+* Developed AI-powered workflows for report generation, audio report processing, automated summarization, and intelligent admin dashboards.
+* Built scalable backend APIs and optimized data-processing workflows improving system efficiency and reducing manual operations.
+* Contributed to optimization initiatives that improved API response performance and reduced backend processing overhead by approximately 35%.
+* Collaborated with cross-functional teams using Agile methodologies and modern development workflows.
+* Improved application performance, maintainability, and scalability across multiple production-grade healthcare projects.
+
+### Technology Senior Executive — Pearl Organisation
+
+**Dehradun, Uttarakhand, India | May 2025 – Jan 2026**
+
+* Managed and delivered 20+ projects including eCommerce platforms, vehicle booking systems, tour booking applications, and business management solutions.
+* Handled multiple client projects simultaneously while ensuring timely delivery and production stability.
+* Developed scalable web applications and backend services supporting business-critical workflows.
+* Improved frontend responsiveness and application performance by implementing optimized rendering and reusable UI architecture.
+* Integrated secure payment gateway systems and scalable backend workflows for high-traffic applications.
+* Collaborated with teams to deliver business-critical features and improve overall system efficiency.
+* Participated in debugging, testing, deployment, and production support activities.
+
+### Software Developer — Codementees
+
+**Bengaluru, Karnataka, India | Sep 2024 – May 2025**
+
+* Developed a Full-Stack Mentorship Platform using MERN stack, connecting hundreds of mentees with experienced tech mentors.
+* Built scalable backend APIs supporting authentication, real-time communication, and content management features.
+* Implemented real-time messaging using Socket.io, increasing engagement by 20%.
+* Optimized MongoDB queries, aggregation pipelines, and indexing strategies, improving database performance by 40% and reducing API response times significantly.
+* Improved frontend maintainability by building reusable React components and eliminating repetitive code, enhancing UI consistency and developer productivity.
+* Developed SEO-friendly pages and optimized frontend performance using Next.js best practices and server-side rendering techniques.
+* Built reusable React components and scalable REST APIs for better maintainability.
+
+### MERN Stack Developer — Quitepaper
+
+**Bikaner, Rajasthan, India | Jul 2023 – Aug 2024**
+
+* Designed and developed a scalable Library Management System with seat booking and CRM functionality used by multiple organizations.
+* Engineered backend workflows and optimized query execution to improve booking efficiency and reduce system latency.
+* Built an automated seat allocation algorithm reducing booking conflicts by 30%.
+* Integrated secure payment gateway systems capable of handling 1000+ concurrent users with reliable transaction processing and high availability.
+* Implemented real-time notifications and scalable backend workflows to improve overall user experience and platform responsiveness.
+* Worked with Socket.io, TypeScript, MongoDB, and scalable backend architectures.
+
+### Software Engineer Intern — Canvas Craft Media
+
+**Sahibzada Ajit Singh Nagar, Punjab, India | Jan 2023 – May 2023**
+
+* Worked on frontend development using React.js and modern JavaScript frameworks.
+* Assisted in developing responsive UI components and integrating REST APIs.
+* Collaborated with senior developers on debugging, testing, and feature implementation.
+* Gained hands-on experience in full-stack application development and Agile workflows.
+
+---
+
+## Skills
+
+### Programming Languages
+
+JavaScript, TypeScript, Python, C++, SQL, HTML5, CSS3
+
+### Frontend
+
+React.js, Redux, Tailwind CSS, Bootstrap, Vite
+
+### Backend & APIs
+
+Node.js, Express.js, REST APIs, Socket.io, JWT Authentication
+
+### AI / Agentic AI
+
+LLMs, LangChain, LangGraph, RAG (Retrieval-Augmented Generation), AI Agents, Prompt Engineering, Vector Databases, AI Workflow Automation, OpenAI APIs, Gemini API, Hugging Face, LangFuse, Multi-Agent Systems, Embeddings, Semantic Search
+
+### Databases
+
+MongoDB, MySQL, Pinecone, ChromaDB
+
+### Cloud & DevOps
+
+AWS, Docker, Kubernetes, Render, GitHub Actions
+
+### Tools & Platforms
+
+Git, GitHub, Postman, Swagger, Jira, VS Code
+
+---
+
+## Projects
+
+### AutoNodeAPI — Open Source NPM Package
+
+* Developed an open-source Node.js package that automates CRUD API generation for Mongoose models.
+* Integrated Swagger documentation for automatic API references and improved developer onboarding.
+* Designed configurable routing and middleware support for scalable backend architecture.
+* Reduced backend boilerplate code and improved API development speed.
+
+### AI Storytelling & Agentic Workflow Platform
+
+* Built AI-powered workflows for automated story generation, image generation, subtitles, and audio creation using LLMs and AI APIs.
+* Automated multi-step content pipelines reducing manual content generation efforts by approximately 70%.
+* Developed agentic AI pipelines using LangChain and LangGraph for multi-step workflow orchestration.
+* Implemented RAG-based context retrieval systems using vector databases to improve AI response quality.
+* Integrated OpenAI and Gemini APIs for conversational AI and intelligent automation systems.
+
+### Jobgram
+
+* Developed a MERN-based job portal platform for recruiters and job seekers.
+* Implemented advanced filtering, authentication, and recruiter job management workflows.
+* Built responsive UI components and scalable backend APIs.
+* Tech Stack: React.js, Node.js, Express.js, MongoDB, Vercel
+
+### TripNest — Smart Tour & Vehicle Booking Platform
+
+* Developed a scalable full-stack travel and booking platform supporting tour booking, vehicle reservations, event booking, and smart travel planning.
+* Implemented intelligent tour plan suggestions and smart route optimization features to improve user travel experience.
+* Built a real-time thread and discussion system allowing travelers and organizers to communicate seamlessly.
+* Integrated secure payment gateway systems capable of handling high concurrent booking traffic.
+* Developed advanced search filters, booking workflows, admin dashboards, and responsive UI architecture.
+* Optimized frontend performance using reusable React components and scalable backend APIs.
+* Tech Stack: React.js, Next.js, Node.js, Express.js, MongoDB, Socket.io, Stripe
+
+---
+
+## Education
+
+### Punjab Technical University
+
+Bachelor of Technology in Computer Science & Engineering
+**2019 – 2023**

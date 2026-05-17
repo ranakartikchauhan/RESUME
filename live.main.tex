@@ -1,0 +1,162 @@
+\documentclass[10pt,a4paper]{moderncv}
+\moderncvtheme[blue]{banking}
+\nopagenumbers{}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[top=0.42cm,bottom=0.42cm,left=0.55cm,right=0.55cm]{geometry}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{mathpazo}
+\usepackage{url}
+
+\setlength{\hintscolumnwidth}{0pt}
+\setlength{\makecvtitlenamewidth}{8cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\renewcommand{\baselinestretch}{0.91}
+\renewcommand*{\labelitemi}{\textbullet}
+
+\AtBeginDocument{\recomputelengths}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}
+\newlist{resitemize}{itemize}{1}
+\setlist[resitemize]{label=\textbullet,leftmargin=*,topsep=0.35mm,itemsep=0.18mm,parsep=0pt,partopsep=0pt}
+
+\newcommand*{\role}[4]{
+  \textbf{#1} -- {\itshape #2}\hfill{\small #3 \textbar{} #4}\\[-0.7mm]
+}
+
+\newcommand*{\projecttitle}[1]{\vspace{0.8mm}\textbf{#1}\\[-0.9mm]}
+\newcommand*{\skillrow}[2]{\textbf{#1} & #2\\[0.35mm]}
+
+\firstname{Kartik}
+\familyname{Chauhan}
+\address{Bengaluru, India}{}
+
+\begin{document}
+\maketitle
+\vspace{-12mm}
+
+\begin{center}
+\scriptsize
+\textbf{Full Stack Engineer \textbar{} AI Engineer \textbar{} Agentic AI Developer}\\[-0.2mm]
+\emailsymbol\enspace\emaillink{kartikchauhan336@gmail.com}
+\quad \mobilephonesymbol\enspace +91 6396934224
+\quad \faHome\enspace\href{https://ranakartikchauhan.in}{ranakartikchauhan.in}\\[-0.3mm]
+\faLinkedin\enspace\href{https://linkedin.com/in/ranakartikchauhan}{linkedin.com/in/ranakartikchauhan}
+\quad \faGithub\enspace\href{https://github.com/ranakartikchauhan}{github.com/ranakartikchauhan}
+\end{center}
+\vspace{-4.5mm}
+
+\begin{minipage}[t]{0.66\textwidth}
+\footnotesize
+\section{Experience}
+\role{Associate Delivery Level 3}{SmartData Enterprises Inc.}{Dehradun, Uttarakhand, India}{Jan 2026 -- Present}
+\begin{resitemize}
+  \item Working on scalable healthcare sector applications with a focus on backend architecture, AI workflows, and enterprise-grade system development.
+  \item Developed AI-powered workflows for report generation, audio report processing, automated summarization, and intelligent admin dashboards.
+  \item Built scalable backend APIs and optimized data-processing workflows improving system efficiency and reducing manual operations.
+  \item Contributed to optimization initiatives that improved API response performance and reduced backend processing overhead by approximately 35\%.
+  \item Collaborated with cross-functional teams using Agile methodologies and modern development workflows.
+  \item Improved application performance, maintainability, and scalability across multiple production-grade healthcare projects.
+\end{resitemize}
+
+\role{Technology Senior Executive}{Pearl Organisation}{Dehradun, Uttarakhand, India}{May 2025 -- Jan 2026}
+\begin{resitemize}
+  \item Managed and delivered 20+ projects including eCommerce platforms, vehicle booking systems, tour booking applications, and business management solutions.
+  \item Handled multiple client projects simultaneously while ensuring timely delivery, production stability, and business-critical workflow support.
+  \item Developed scalable web applications and backend services, improving frontend responsiveness through optimized rendering and reusable UI architecture.
+  \item Integrated secure payment gateway systems and scalable backend workflows for high-traffic applications while supporting debugging, testing, deployment, and production operations.
+\end{resitemize}
+
+\role{Software Developer}{Codementees}{Bengaluru, Karnataka, India}{Sep 2024 -- May 2025}
+\begin{resitemize}
+  \item Developed a Full-Stack Mentorship Platform using MERN stack, connecting hundreds of mentees with experienced tech mentors.
+  \item Built scalable backend APIs supporting authentication, real-time communication, and content management features, including Socket.io messaging that increased engagement by 20\%.
+  \item Optimized MongoDB queries, aggregation pipelines, and indexing strategies, improving database performance by 40\% and reducing API response times significantly.
+  \item Improved frontend maintainability and performance by building reusable React components, eliminating repetitive code, developing SEO-friendly pages, and applying Next.js server-side rendering best practices.
+\end{resitemize}
+
+\role{MERN Stack Developer}{Quitepaper}{Bikaner, Rajasthan, India}{Jul 2023 -- Aug 2024}
+\begin{resitemize}
+  \item Designed and developed a scalable Library Management System with seat booking and CRM functionality used by multiple organizations.
+  \item Engineered backend workflows and optimized query execution to improve booking efficiency and reduce system latency.
+  \item Built an automated seat allocation algorithm reducing booking conflicts by 30\% and implemented real-time notifications to improve platform responsiveness.
+  \item Integrated secure payment gateway systems capable of handling 1000+ concurrent users using Socket.io, TypeScript, MongoDB, and scalable backend architectures.
+\end{resitemize}
+
+\role{Software Engineer Intern}{Canvas Craft Media}{Sahibzada Ajit Singh Nagar, Punjab, India}{Jan 2023 -- May 2023}
+\begin{resitemize}
+  \item Worked on frontend development using React.js and modern JavaScript frameworks.
+  \item Assisted in developing responsive UI components and integrating REST APIs.
+  \item Collaborated with senior developers on debugging, testing, feature implementation, full-stack development, and Agile workflows.
+\end{resitemize}
+
+\section{Projects}
+\projecttitle{AutoNodeAPI -- Open Source NPM Package}
+\begin{resitemize}
+  \item Developed an open-source Node.js package that automates CRUD API generation for Mongoose models.
+  \item Integrated Swagger documentation for automatic API references and improved developer onboarding.
+  \item Designed configurable routing and middleware support for scalable backend architecture.
+  \item Reduced backend boilerplate code and improved API development speed.
+\end{resitemize}
+
+\projecttitle{AI Storytelling \& Agentic Workflow Platform}
+\begin{resitemize}
+  \item Built AI-powered workflows for automated story generation, image generation, subtitles, and audio creation using LLMs and AI APIs.
+  \item Automated multi-step content pipelines reducing manual content generation efforts by approximately 70\%.
+  \item Developed agentic AI pipelines using LangChain and LangGraph for multi-step workflow orchestration.
+  \item Implemented RAG-based context retrieval systems using vector databases to improve AI response quality.
+  \item Integrated OpenAI and Gemini APIs for conversational AI and intelligent automation systems.
+\end{resitemize}
+
+\projecttitle{Jobgram}
+\begin{resitemize}
+  \item Developed a MERN-based job portal platform for recruiters and job seekers.
+  \item Implemented advanced filtering, authentication, and recruiter job management workflows.
+  \item Built responsive UI components and scalable backend APIs.
+  \item \textit{Tech Stack:} React.js, Node.js, Express.js, MongoDB, Vercel.
+\end{resitemize}
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.31\textwidth}
+\footnotesize
+\section{Professional Summary}
+Full-Stack Software Engineer with 3+ years of experience building scalable web applications and AI-powered systems used by thousands of users using the MERN stack and modern AI frameworks. Experienced in high-performance applications, REST APIs, payment systems, real-time architectures, scalable backend architecture, cloud deployment, vector databases, AI automation systems, RAG pipelines, LLM integrations, LangChain, and LangGraph. Improved application performance by up to 40\% through database optimization and scalable frontend engineering, with strong problem-solving skills across production-grade applications and full-stack development.
+
+\section{Skills}
+\scriptsize
+\begin{tabularx}{\textwidth}{@{}p{16mm}L@{}}
+\skillrow{Programming}{JavaScript, TypeScript, Python, C++, SQL, HTML5, CSS3}
+\skillrow{Frontend}{React.js, Redux, Tailwind CSS, Bootstrap, Vite}
+\skillrow{Backend}{Node.js, Express.js, REST APIs, Socket.io, JWT Authentication}
+\skillrow{AI / Agentic AI}{LLMs, LangChain, LangGraph, RAG (Retrieval-Augmented Generation), AI Agents, Prompt Engineering, Vector Databases, AI Workflow Automation, OpenAI APIs, Gemini API, Hugging Face, LangFuse, Multi-Agent Systems, Embeddings, Semantic Search}
+\skillrow{Databases}{MongoDB, MySQL, Pinecone, ChromaDB}
+\skillrow{Cloud \& DevOps}{AWS, Docker, Kubernetes, Render, GitHub Actions}
+\skillrow{Tools}{Git, GitHub, Postman, Swagger, Jira, VS Code}
+\end{tabularx}
+\footnotesize
+
+\section{Projects Continued}
+\projecttitle{TripNest -- Smart Tour \& Vehicle Booking Platform}
+\begin{resitemize}
+  \item Developed a scalable full-stack travel and booking platform supporting tour booking, vehicle reservations, event booking, and smart travel planning.
+  \item Implemented intelligent tour plan suggestions and smart route optimization features to improve user travel experience.
+  \item Built a real-time thread and discussion system allowing travelers and organizers to communicate seamlessly.
+  \item Integrated secure payment gateway systems capable of handling high concurrent booking traffic.
+  \item Developed advanced search filters, booking workflows, admin dashboards, and responsive UI architecture.
+  \item Optimized frontend performance using reusable React components and scalable backend APIs.
+  \item \textit{Tech Stack:} React.js, Next.js, Node.js, Express.js, MongoDB, Socket.io, Stripe.
+\end{resitemize}
+
+\section{Education}
+\textbf{Punjab Technical University}\\[-0.3mm]
+Bachelor of Technology in Computer Science \& Engineering\\[-0.3mm]
+2019 -- 2023
+
+\end{minipage}
+
+\end{document}
